@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "es2022"
+    ],
+    "module": "esnext", /* Specify what module code is generated. */
+    "moduleResolution":"Node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true, /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+    "strict": true
+  }
+}
